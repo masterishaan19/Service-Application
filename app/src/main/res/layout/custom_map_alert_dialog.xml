@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/choosingtext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_your_options_for_the_marker_n"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/editMaker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/add_location_edit_marker_dialog_box"
+        android:padding="10dp"
+        android:text="@string/edit_marker"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/deleteMarker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/add_location_edit_marker_dialog_box"
+        android:padding="10dp"
+        android:text="@string/delete_marker"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/cancelEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/add_location_edit_marker_dialog_box"
+        android:padding="10dp"
+        android:text="@string/cancel"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

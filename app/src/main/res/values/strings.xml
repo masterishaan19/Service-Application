@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Enr Services App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_add_map_location">Map</string>
+    <string name="choose_your_options_for_the_marker_n">Choose your options for the marker:\n</string>
+    <string name="edit_marker">Edit Marker</string>
+    <string name="delete_marker">Delete Marker</string>
+    <string name="cancel">Cancel</string>
+    <string name="forward">Forward</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="state">State</string>
+    <string name="next">Create Service Request</string>
+    <string name="select_area">Select Area</string>
+    <string name="street_name">Street Name</string>
+    <string name="house_address">House Address</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="name">Name</string>
+    <string name="add_location">Add &amp; Edit Location</string>
+    <string name="completed_services">Completed services</string>
+    <string name="logout">Logout</string>
+    <string name="help">Help</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="export_to_excel">Export to Excel</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="service_requests">Service Requests</string>
+    <string name="for_more_contact_and_support_n_reach_out_through_mail">For more contact and support\n Reach out through mail</string>
+</resources>

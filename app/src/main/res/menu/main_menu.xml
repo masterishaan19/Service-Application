@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/serviceRequest" android:title="@string/service_requests"/>
+    <item android:id="@+id/setLocation" android:title="@string/add_location"/>
+    <item android:id="@+id/showCompleted" android:title="@string/completed_services"/>
+    <item android:id="@+id/exportExcel" android:title="@string/export_to_excel"/>
+    <item android:id="@+id/startTimer" android:title="@string/start_timer"/>
+    <item android:id="@+id/logout" android:title="@string/logout"/>
+    <item android:id="@+id/about" android:title= "@string/about_us"/>
+</menu>

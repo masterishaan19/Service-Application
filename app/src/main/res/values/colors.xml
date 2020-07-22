@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="first">#FA7237</color>
+    <color name="second">#BF37FA</color>
+    <color name="third">#29CB50</color>
+    <color name="fourth">#EADB1E</color>
+    <color name="fifth">#1EA9EA</color>
+    <color name="sixth">#931EEA</color>
+    <color name="button_color">#fff</color>
+    <color name="button_colorr">#3899E4</color>
+    <color name="complete_activity_color"></color>
+</resources>
