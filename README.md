@@ -1,6 +1,6 @@
 # Service-Application
 This contains a service app for the handyman registration service
-#APK File
+# APK File
 Apk file is being attached with the code for the user to test.
 # Instructions
 To use the application 
